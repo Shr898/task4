@@ -1,1 +1,1 @@
-##Not adding anything to .gitignore because all the files here are important and need to be pushed on github.
+.env
