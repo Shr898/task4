@@ -26,3 +26,4 @@ This is task4. Were supposed to perform most of the best git practices on an act
 
 ## 6. "git tag". this command will tag a milestone in commits.
 ![git tag](screenshots/task4-git-tag.png)
+
